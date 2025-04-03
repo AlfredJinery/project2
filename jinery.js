@@ -1,2 +1,2 @@
-console.log('buyu8');
-console.log('mama566updates');
+console.log('buyu');
+console.log('mama');

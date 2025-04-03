@@ -1,2 +1,2 @@
-console.log('tanzania88');
-console.log('madrid644tanza');
+console.log('tanzania');
+console.log('madrid');
